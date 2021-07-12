@@ -1,0 +1,27 @@
+.grid {
+    color: orange;
+    width: 400px;
+    height: 600px;
+    background-image: url(https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.jpg);
+    background-size: cover;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+.doodler {
+    width: 40px;
+    height: 45px;
+    background-color: white;
+    position: absolute;
+    border-radius: 50%;
+    z-index: 10000000000000000000000000;
+}
+
+.platform {
+    width: 85px;
+    height: 15px;
+    background: orange;
+    border-radius: 10px;
+    position: absolute;
+}
